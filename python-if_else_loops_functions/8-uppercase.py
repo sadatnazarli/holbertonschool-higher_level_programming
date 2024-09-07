@@ -6,4 +6,5 @@ def uppercase(str):
         else:
             upper_char = c
             print("{}".format(upper_char), end="")
+
             print()
